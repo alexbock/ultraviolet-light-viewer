@@ -45,7 +45,7 @@ The body is 3D-printed in PLA. The ultraviolet filter material is Schott UG11. F
 * Many fluorescent dyes found in highlighters are highly sensitive to pH and cannot be mixed to produce RGB screens.
 * Chlorophyll exhibits red fluorescent emission but degrades too rapidly to be useful.
 * Phosphorescent materials such as zinc sulfide can be useful when formulated to reduce their decay time.
-* The optical brightener can be extracted from paper with ethanol.
+* The optical brightener can be extracted from paper with ethanol. It is not appreciably soluble in acetone.
 
 ## Additional Photos
 
@@ -58,3 +58,5 @@ Note that all of these images are captured by a phone camera held to the eyepiec
 <img src="lamp-far.jpg" alt="Lamp, far" width="300">
 
 <img src="lamp-close.jpg" alt="Lamp, close" width="300">
+
+<img src="tomato-flowers.jpg" alt="Tomato flowers" width="300">
